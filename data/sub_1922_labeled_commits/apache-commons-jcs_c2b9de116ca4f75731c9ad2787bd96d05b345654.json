@@ -1,0 +1,1 @@
+{"application": "apache-commons-jcs", "csha": "c2b9de116ca4f75731c9ad2787bd96d05b345654", "files": [{"ObjectInputStreamClassLoaderAware_cluster": {"actions": []}}, {"ObjectInputStreamClassLoaderAware_diff": {"operations": []}}], "commit_stats": [{"total_files": 4, "deleted_files": 0, "testing": "True", "maintenance": "True", "build": "True"}]}

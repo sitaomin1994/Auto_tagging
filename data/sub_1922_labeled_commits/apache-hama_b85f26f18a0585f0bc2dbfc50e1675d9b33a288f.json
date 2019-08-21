@@ -1,0 +1,1 @@
+{"application": "apache-hama", "csha": "b85f26f18a0585f0bc2dbfc50e1675d9b33a288f", "files": [{"HadoopMessageManagerImpl_cluster": {"actions": []}}, {"HadoopMessageManagerImpl_diff": {"operations": []}}], "commit_stats": [{"total_files": 2, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

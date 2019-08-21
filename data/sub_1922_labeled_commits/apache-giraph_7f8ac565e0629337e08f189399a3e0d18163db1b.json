@@ -1,0 +1,1 @@
+{"application": "apache-giraph", "csha": "7f8ac565e0629337e08f189399a3e0d18163db1b", "files": [{"WrappedVertexOutputFormat_cluster": {"actions": []}}, {"WrappedVertexOutputFormat_diff": {"operations": []}}], "commit_stats": [{"total_files": 3, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "True"}]}

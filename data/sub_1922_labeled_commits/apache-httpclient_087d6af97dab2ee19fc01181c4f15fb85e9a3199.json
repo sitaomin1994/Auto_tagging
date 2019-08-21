@@ -1,0 +1,1 @@
+{"application": "apache-httpclient", "csha": "087d6af97dab2ee19fc01181c4f15fb85e9a3199", "files": [{"SM_cluster": {"actions": []}}, {"SM_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

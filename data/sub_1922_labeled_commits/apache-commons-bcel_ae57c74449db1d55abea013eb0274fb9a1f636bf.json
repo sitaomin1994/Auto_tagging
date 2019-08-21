@@ -1,0 +1,1 @@
+{"application": "apache-commons-bcel", "csha": "ae57c74449db1d55abea013eb0274fb9a1f636bf", "files": [{"MethodGen_cluster": {"actions": []}}, {"MethodGen_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

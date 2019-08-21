@@ -1,0 +1,1 @@
+{"application": "google-caja", "csha": "3739c2329fe2705c7e1e4db3a16618af5f6df07a", "files": [{"CajitaRewriter_cluster": {"actions": []}}, {"CajitaRewriter_diff": {"operations": []}}], "commit_stats": [{"total_files": 2, "deleted_files": 0, "testing": "True", "maintenance": "False", "build": "False"}]}

@@ -1,0 +1,1 @@
+{"application": "apache-commons-codec", "csha": "95083b50042f370097f344906fe47d42b76f16ae", "files": [{"PercentCodec_cluster": {"actions": []}}, {"PercentCodec_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

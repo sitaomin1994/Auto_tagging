@@ -1,0 +1,1 @@
+{"application": "apache-commons-vfs", "csha": "18a8e659d81f0a5c66a95e98deb29d9f5a790f69", "files": [{"ThreadLocalHttpConnectionManager_cluster": {"actions": []}}, {"ThreadLocalHttpConnectionManager_diff": {"operations": []}}], "commit_stats": [{"total_files": 7, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "True"}]}

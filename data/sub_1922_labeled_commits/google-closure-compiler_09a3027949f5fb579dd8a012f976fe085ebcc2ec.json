@@ -1,0 +1,1 @@
+{"application": "google-closure-compiler", "csha": "09a3027949f5fb579dd8a012f976fe085ebcc2ec", "files": [{"JsFileParser_cluster": {"actions": []}}, {"JsFileParser_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

@@ -1,0 +1,1 @@
+{"application": "apache-httpcore", "csha": "14f8527f70b53e0333ed69704999e51df8ea0c84", "files": [{"HeaderGroup_cluster": {"actions": []}}, {"HeaderGroup_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

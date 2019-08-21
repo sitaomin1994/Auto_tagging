@@ -1,0 +1,1 @@
+{"application": "Netflix-eureka", "csha": "fb709f61b5caeb23155e4ea667aebba215826aae", "files": [{"DiscoveryClient_cluster": {"actions": []}}, {"DiscoveryClient_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

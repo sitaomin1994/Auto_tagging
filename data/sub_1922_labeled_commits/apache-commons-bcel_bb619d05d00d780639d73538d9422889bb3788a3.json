@@ -1,0 +1,1 @@
+{"application": "apache-commons-bcel", "csha": "bb619d05d00d780639d73538d9422889bb3788a3", "files": [{"ControlFlowGraph_cluster": {"actions": []}}, {"ControlFlowGraph_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

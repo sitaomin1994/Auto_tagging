@@ -1,0 +1,1 @@
+{"application": "google-guava", "csha": "b62bb981723123e7fa33dec0193ca6597f8ad54b", "files": [{"AbstractConfigurableNetwork_cluster": {"actions": []}}, {"AbstractConfigurableNetwork_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

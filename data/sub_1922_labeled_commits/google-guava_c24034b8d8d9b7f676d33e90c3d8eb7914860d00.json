@@ -1,0 +1,1 @@
+{"application": "google-guava", "csha": "c24034b8d8d9b7f676d33e90c3d8eb7914860d00", "files": [{"Charsets_cluster": {"actions": []}}, {"Charsets_diff": {"operations": []}}, {"Charsets_cluster": {"actions": []}}, {"Charsets_diff": {"operations": []}}], "commit_stats": [{"total_files": 2, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}

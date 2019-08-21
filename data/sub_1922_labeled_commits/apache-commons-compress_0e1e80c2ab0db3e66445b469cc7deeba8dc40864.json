@@ -1,0 +1,1 @@
+{"application": "apache-commons-compress", "csha": "0e1e80c2ab0db3e66445b469cc7deeba8dc40864", "files": [{"HuffmanDecoder_cluster": {"actions": []}}, {"HuffmanDecoder_diff": {"operations": []}}], "commit_stats": [{"total_files": 1, "deleted_files": 0, "testing": "False", "maintenance": "False", "build": "False"}]}
